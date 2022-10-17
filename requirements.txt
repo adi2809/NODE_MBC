@@ -1,0 +1,14 @@
+gym
+numpy
+scipy
+torch
+imageio
+jupyter
+pyparsing
+matplotlib
+tensorboard
+torchdiffeq
+torchvision
+scikit-image
+pyvirtualdisplay
+pytorch-lightning
